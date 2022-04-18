@@ -21,8 +21,7 @@
       <img align="center" alt="kodveblog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
       <img align="center" alt="kodveblog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
         <img align="center" alt="kodveblog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" alt="kodveblog CAT " height="150" style="border-radius:50px;" src="http://www.fc1492.com/wp-content/uploads/2017/06/tumblr_ook9ah2gfS1u6n4kao1_500.gif">
-  ![Snake animation](https://github.com/AyseErdanisman/AyseErdanisman/blob/output/github-contribution-grid-snake.svg)
+    <img align="right" height="150" style="border-radius:50px;" src="http://www.fc1492.com/wp-content/uploads/2017/06/tumblr_ook9ah2gfS1u6n4kao1_500.gif">
 - 👋 Hi, I’m @kodveblog
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
