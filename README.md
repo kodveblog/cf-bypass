@@ -9,6 +9,7 @@
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodveblog)](https://github.com/kodveblog//github-readme-stats)
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=kodveblog&style=for-the-badge">
   <h3>🛠  Tech Stack</h3>
+  <div style="display: inline_block"><br>
     <img align="center" alt="kodveblog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="kodveblog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="kodveblog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
