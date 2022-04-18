@@ -67,7 +67,7 @@
 <div> 
   <a href="https://medium.com/@kodveblog"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="mailto:dijitaltekno2@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-    <a href="mailto:dijitaltekno2@gmail.com" target="blank"><img src="https://img.shields.io/badge/%C4%B0nstagram-white?style=for-the-badge&logo=instagram&logoColor=purple" alt="gmail" /></a>
+    <a href="https://instagram.com/kodveblog/" target="blank"><img src="https://img.shields.io/badge/%C4%B0nstagram-white?style=for-the-badge&logo=instagram&logoColor=purple" alt="gmail" /></a>
 </div>
   
 <div>
