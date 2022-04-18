@@ -7,16 +7,15 @@
 - 📫 How to find me: 
 - İnstagram post's 📫 : https://instagram.com/kodveblog
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodveblog)](https://github.com/kodveblog//github-readme-stats)
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=kedyc0der&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=kodveblog&style=for-the-badge">
   <h3>🛠  Tech Stack</h3>
-<div style="display: inline_block"><br>
-    <img align="center" alt="kedy.coder" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="kedy.coder" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="kedy.coder" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="kedy.coder" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kedy.coder" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kedy.coder" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="kedy.coder" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
+    <img align="center" alt="kodveblog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="kodveblog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" alt="kodveblog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="kodveblog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="kodveblog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="kodveblog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="kodveblog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
     <img align="center" alt="kedy.coder" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="right" alt="kod ve blog- CAT " height="150" style="border-radius:50px;" src="http://www.fc1492.com/wp-content/uploads/2017/06/tumblr_ook9ah2gfS1u6n4kao1_500.gif">
 
