@@ -5,7 +5,7 @@
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
-  - :bulb: [İnstagram post's](https://instagram.com/kedy.coder)
+- İnstagram post's 📫 : https://instagram.com/kodveblog
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodveblog)](https://github.com/kodveblog//github-readme-stats)
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=kedyc0der&style=for-the-badge">
   <h3>🛠  Tech Stack</h3>
